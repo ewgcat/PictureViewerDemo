@@ -26,6 +26,6 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 //    api project(path: ':pictureview')
-    api 'com.lsh.toast:pictureview:1.0.0'
+    api  'com.lsh.pictureviewer:pictureview:1.0.1'
 
 }
