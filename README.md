@@ -9,10 +9,10 @@ allprojects {
             repositories {
                  google()
                  jcenter()
-                 maven{  url "https://ewgcat.bintray.com/utils/"}
+                maven { url 'https://jitpack.io' }
  }
  
  dependencies {
-     api  'com.lsh.pictureviewer:pictureview:1.0.1'
+   'com.github.ewgcat:PictureViewerDemo:1.0.0'
 }
 
