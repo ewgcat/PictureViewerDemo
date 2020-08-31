@@ -13,6 +13,6 @@ allprojects {
  }
  
  dependencies {
-   'com.github.ewgcat:PictureViewerDemo:1.0.0'
+  api 'com.github.ewgcat:PictureViewerDemo:1.0.0'
 }
 
