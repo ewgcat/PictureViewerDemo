@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-apply from: rootProject.file("bintray.gradle")
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -9,8 +8,6 @@ android {
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
-
-        consumerProguardFiles "consumer-rules.pro"
     }
 
     buildTypes {
